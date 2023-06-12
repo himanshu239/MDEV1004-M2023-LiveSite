@@ -1,7 +1,7 @@
 {
-  "name": "mdev1004-m2023-assignment1",
+  "name": "mdev1004-m2023-livesite",
   "version": "0.0.3",
-  "description": "This is a demo project for MDEV1004 - assignment1 - in the Summer 2023 semester at georgian ",
+  "description": "This is a demo project for MDEV1004 - in the Summer 2023 semester at georgian ",
   "author": "Himanshu Makhija",
   "scripts": {
     "start": "node server.js"
